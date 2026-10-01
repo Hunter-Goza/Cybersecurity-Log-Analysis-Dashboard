@@ -8,27 +8,20 @@ This project is a cybersecurity dashboard built with Python and Streamlit that a
 
 ### Features
 
-Upload log files
-
-Search and filter logs
-
-Threat scoring
-
-Error and warning detection
-
-Interactive visualizations
+* Upload log files
+* Search and filter logs
+* Threat scoring
+* Error and warning detection
+* Interactive visualizations
 
 
 
 ### Technologies Used
 
-Python
-
-Streamlit
-
-Pandas
-
-Plotly
+* Python
+* Streamlit
+* Pandas
+* Plotly
 
 
 
